@@ -13,6 +13,7 @@ font-size: 50px;
 section{
 
 display:flex;
+margin: bottom 100px; ;
 
 }
 .half-width{
@@ -22,6 +23,7 @@ display:flex;
 }
 .half-width image{
     width: 80%;
+    height: 200px;
 }
 .link-button{
 color: black;
@@ -36,4 +38,13 @@ font-weight: 700;
 {
 background-image: url(photo/top-banner.png);
 background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(photo/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+}
+.size-change{
+    
+    
 }
