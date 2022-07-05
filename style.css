@@ -76,3 +76,12 @@ footer{
 
     text-align: center;
 }
+.display-alin{
+
+    display: flex;
+  justify-content: space-evenly;  
+}
+.center-text{
+text-align: center;
+
+}
